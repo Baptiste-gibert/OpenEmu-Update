@@ -132,7 +132,7 @@
   <core
     id="org.openemu.mednafen"
     name="Mednafen"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/mednafen_appcast.xml">
+    appcastURL="https://raw.github.com/Baptiste-gibert/OpenEmu-Update/master/mednafen_appcast.xml">
 
     <description>Mednafen emulator</description>
 	<systems>
